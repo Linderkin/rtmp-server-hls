@@ -21,11 +21,6 @@ RUN apt-get update && \
                        nano  && \
     rm -rf /var/lib/apt/lists/*
 
-#Download and install Nano
-RUN apt-get update && \
-    apt-get install  && \
-    rm -rf /var/lib/apt/lists/*
-
 # Download and decompress Nginx
 RUN mkdir -p /tmp/build/nginx && \
     cd /tmp/build/nginx && \
