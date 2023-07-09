@@ -2,11 +2,11 @@
 
 ## Español
 
-[**Docker**](https://www.docker.com/) Imagen basada en Debian12-slim con [**Nginx**](http://nginx.org/en/) usando el modulo_ [**nginx-rtmp-module**](https://github.com/arut/nginx-rtmp-module)  para video en streaming con un reproductor.
+Imagen de [**Docker**](https://www.docker.com/) basada en Debian12-slim con [**Nginx**](http://nginx.org/en/) usando el modulo_ [**nginx-rtmp-module**](https://github.com/arut/nginx-rtmp-module)  para video en streaming con un reproductor.
 
 ## Descripción
 
-Esta [**Docker**](https://www.docker.com/) imagen es para montar un servidor RTMP para multimedia / video stream, las principales caracteristicas de esta imagen son:
+Esta imagen de [**Docker**](https://www.docker.com/) es para montar un servidor RTMP de multimedia / video stream, las principales caracteristicas de esta imagen son:
 
 [**Basado en Debian12-slim**](http://debian.org)
 
